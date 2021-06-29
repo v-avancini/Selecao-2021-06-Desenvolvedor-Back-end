@@ -26,5 +26,18 @@ Erros Encontrados
 
 
 
+Possíveis Melhorias
+=================
+
+    *Melhoria 1:
+        *Classe Address com variáveis, constutor, getters e setter
+        
+    *Melhoria 2:
+        *Seguindo a Melhoria 1, não seria necessário receber a referência do objeto, podendo acessar os atributos da classe através dos métodos gets
+        
+    *Melhoria 3:
+        *Utilizar _GET ao invés de _POST, por questão de segurança
+        
+    
 
 
