@@ -1,7 +1,7 @@
 
-#Seleção 2021-06 - Desenvolvedor Backend
+# Seleção 2021-06 - Desenvolvedor Backend
 
-##Este documento faz parte da segunda etapa do processo seletivo para desenvolvedor backend para a empresa Bertholdo
+## Este documento faz parte da segunda etapa do processo seletivo para desenvolvedor backend para a empresa Bertholdo
 
 Erros Encontrados
 =================
